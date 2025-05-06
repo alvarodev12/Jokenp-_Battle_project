@@ -8,11 +8,11 @@ JokenPô Battle é um projeto simples e divertido de Pedra, Papel e Tesoura dese
 
 ### 💻 Versão Desktop
 
-<img src="caminho/para/imagem-desktop.png" alt="JokenPô Battle Desktop" width="700"/>
+<img src="assets/JokenPô Battle Desktop.png" alt="JokenPô Battle Desktop" width="700"/>
 
 ### 📱 Versão Mobile
 
-<img src="caminho/para/imagem-mobile.png" alt="JokenPô Battle Mobile" width="300"/>
+<img src="assets/JokenPô Battle Mobile.png" alt="JokenPô Battle Mobile" width="300"/>
 
 ---
 
@@ -53,8 +53,6 @@ JokenPô Battle é um projeto simples e divertido de Pedra, Papel e Tesoura dese
 
    cd jokenpo-battle
 
-   📄 Licença
-Este projeto está sob a licença MIT. Sinta-se livre para usar e modificar!
 
 👨‍💻 Desenvolvido por - 
 Álvaro de Souza
